@@ -4,3 +4,18 @@ body{
 h1{
     color: green;
 }
+#mygitbox, #mygithubbox {
+    margin: 10px;
+}
+label{
+    color: #fff;
+}
+#myH2{
+    color: green;
+    display: none;
+}
+#mybtn{
+    font-weight: bold;
+    padding: 10px 20px;
+    margin-left: 20px;
+}
